@@ -21,7 +21,7 @@ for i, result in enumerate(results):
     result.show()  # display to screen
     
     # Construa o caminho completo para o arquivo
-    save_path = os.path.join(save_dir+'results', f'result_{i}.jpg')
+    save_path = os.path.join(dir+'results', f'result_{i}.jpg')
     
     # Salve a imagem no caminho especificado
     result.save(filename=save_path)
