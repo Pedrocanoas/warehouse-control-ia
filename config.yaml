@@ -6,6 +6,7 @@ test: test  # test images (relative to 'path')
 # Classes
 names:
   0: "AUTOMOTIVE OIL"
+  1: "BATTERY"
   # 0: "AIR COMPRESSOR"
   # 1: "ALTERNATOR"
   # 2: "BATTERY"
